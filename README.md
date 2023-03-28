@@ -2,7 +2,7 @@
 site sobre Spa
 <!DOCTYPE html>
 <html lang="pt-br">
- <meta charset = "UTF-8">
+ <meta charset = "UTF-8"> 
  <TITLE>Spa Beladona</TITLE> 
 <h1>Spa Beladona</h1>
 
@@ -12,7 +12,7 @@ site sobre Spa
 <p><em> Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
 
 <p> Oferecemos profissionais experientes. 
-    O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+    O atendimento possui padrão de excelência e agilidade, garantindo qualidade e Osatisfação dos nossos clientes.</p>
 
  <img src="https://solangefreire.com.br/wp-content/uploads/2019/07/2-5-768x493.jpg" alt="">
 <p> Quais são os benefícios de um Spa Day?</p>
