@@ -24,5 +24,13 @@ Ancorado em uma proposta de valorização do contato humano, profissionalismo e 
 <p> Melhorar os hábitos.</p>
 <p> Relaxar a mente.</p>
  
+ <p>Nosso Spa oferece:</p>
+ <p>Massagens relaxantes;</p>
+ <p>Banhos de ofurô com óleos essenciais;</p>
+ <p>Aromaterapia;</p>
+ <p>Acupuntura;</p>
+ <p>Reflexologia;</p>
+ <p>Shiatsu;</p>
+ 
 <img src="https://images.e-tsw.com/_lib/b2b2c-sites/amr/sunmx21/img/servicios/your-spa-day/slider/6.jpg" alt="">
 </html>
