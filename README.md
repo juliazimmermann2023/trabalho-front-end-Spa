@@ -23,4 +23,6 @@ site sobre Spa
 <p> Fugir da correria do dia a dia.</p>
 <p> Melhorar os hábitos.</p>
 <p> Relaxar a mente.</p>
+ <img scr="https://user-images.githubusercontent.com/128699018/228276052-4232842e-1184-49e5-8d52-261cbf3bccd8.jpg" alt="">
+
 </html>
