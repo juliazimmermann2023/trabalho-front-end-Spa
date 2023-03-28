@@ -15,7 +15,7 @@ Ancorado em uma proposta de valorização do contato humano, profissionalismo e 
     O atendimento possui padrão de excelência e agilidade, garantindo qualidade e Osatisfação dos nossos clientes.</p>
 
  <img src="https://solangefreire.com.br/wp-content/uploads/2019/07/2-5-768x493.jpg" alt="">
-<p> <strong> Quais são os benefícios de um Spa Day? <strong></p>
+<p> <strong> Quais são os benefícios de um Spa Day? </strong></p>
 <p> Aliviar as dores crônicas.</p>
 <p> Diminuir as tensões causadas pelo estresse.</p>
 <p> Eliminar as toxinas e melhorar o aspecto da pele.</p>
@@ -26,13 +26,13 @@ Ancorado em uma proposta de valorização do contato humano, profissionalismo e 
  
  
 <img src="https://images.e-tsw.com/_lib/b2b2c-sites/amr/sunmx21/img/servicios/your-spa-day/slider/6.jpg" alt="">
-<p> <strong>Nosso Spa oferece: <strong></p>
- <p>Massagens relaxantes;</p>
- <p>Banhos de ofurô com óleos essenciais;</p>
- <p>Aromaterapia;</p>
- <p>Acupuntura;</p>
- <p>Reflexologia;</p>
- <p>Shiatsu;</p>  
+<p> <strong>Nosso Spa oferece: </strong></p>
+ <p>Massagens relaxantes.</p>
+ <p>Banhos de ofurô com óleos essenciais.</p>
+ <p>Aromaterapia.</p>
+ <p>Acupuntura.</p>
+ <p>Reflexologia.</p>
+ <p>Shiatsu.</p>  
   
   
   
