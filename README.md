@@ -24,5 +24,5 @@ site sobre Spa
 <p> Melhorar os hábitos.</p>
 <p> Relaxar a mente.</p>
  
- <img scr="https://user-images.githubusercontent.com/128699018/228276052-4232842e-1184-49e5-8d52-261cbf3bccd8.jpg" alt="">
+<img src="https://images.e-tsw.com/_lib/b2b2c-sites/amr/sunmx21/img/servicios/your-spa-day/slider/6.jpg" alt="">
 </html>
