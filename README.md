@@ -6,10 +6,10 @@ site sobre Spa
   
 <h1>Spa Beladona</h1>
 
-<p> Localizada na cidade de Marechal Cândido Rondon<strong>Spa Beladona</strong>É o melhor lugar para descansar e relaxar.
-    Fundada em 2020 o Spa Beladona já é destaque na cidade e conquista novos clientes a cada dia.</p>
+<p> 
+Ancorado em uma proposta de valorização do contato humano, profissionalismo e resgate de memórias e experiências de cuidados do corpo e da mente, o Spa Beladona é um spa em Curitiba que apresenta a Estética de Bem-Estar, tratamentos corporais e faciais que se apropriam das tradições e culturas mais antigas para um cuidado autêntico e eficiente do corpo e rosto. Os benefícios dos ingredientes botânicos são nossa inspiração para criar experiências completas que acalmam os sentidos e conectam o coração.</p>
 
-<p><em> Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
+<p><em> Nós somos: <strong>"Um dos melhores Spa do Paraná"</strong>.</em></p>
 
 <p> Oferecemos profissionais experientes. 
     O atendimento possui padrão de excelência e agilidade, garantindo qualidade e Osatisfação dos nossos clientes.</p>
