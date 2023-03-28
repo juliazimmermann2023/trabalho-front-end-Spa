@@ -3,7 +3,7 @@ site sobre Spa
 <!DOCTYPE html>
 <html lang="pt-br">
  <meta charset = "UTF-8"> 
-<TITLE>Spa Beladona</TITLE> 
+<TITLE> Spa Beladona </TITLE> 
 <h1>Spa Beladona</h1>
 
 <p> Localizada na cidade de Marechal Cândido Rondon<strong>Spa Beladona</strong>É o melhor lugar para descansar e relaxar.
