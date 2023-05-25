@@ -1,7 +1,30 @@
-p {
-    text-align: center;  
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
 }
 
-body {
-    background: #CCCCCC
+
+
+main{
+    padding: 20px;
+    max-width: 1200px;
+    margin: 100px auto;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 3em;
+    background-color: pink;
+    margin-bottom: 30px;
+}
+img{
+    width: 100%;
+}
+.img-la{
+    background: black url('flor.jpg') center center no-repeat fixed;
+    background-size: cover;
+    height: 30vh;
 }
