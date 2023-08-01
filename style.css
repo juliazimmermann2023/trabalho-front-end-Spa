@@ -38,12 +38,11 @@ h1{
 img{
     width: 100%;
 }
-.img-la{
+.imgla{
     display: flex;
     flex-wrap: wrap;
     align-items: end;
     padding: 100px;
-    background: black url('doce.jpg') center center fixed;
-    background-size: cover;
+    background-color: aquamarine;
     height: 30vh;
 }
