@@ -1,11 +1,57 @@
 @charset "UTF-8";
 
-*{
+  @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+  *{
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
+
+  }
+
+
+body{
+    background-color: pink;
 }
 
+
+ul{
+    list-style-type: none;
+    display: flex;
+}
+a{
+    color: white;
+    font-size: 0.8em;
+    text-decoration: none;
+    margin-right: 8px;
+    font-size: 2em;
+}
+main{
+    padding: 20px;
+    max-width: 1200px;
+    margin: 100px auto;
+    background-color: white;
+}
 h1{
+    font-family: 'Dancing Script', cursive;
     text-align: center;
+    font-size: 3em;
+    background-color: rgb(230, 111, 131);
+    margin-bottom: 30px;
+}
+.imgla img { 
+    width: 6%;
+}
+
+img{
+    width: 90%;
+}
+.imgla{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px;
+    background-color: rgb(255, 96, 175);
+    height: 15vh;
 }
