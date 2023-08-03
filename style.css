@@ -1,10 +1,13 @@
 @charset "UTF-8";
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
-*{
+
+  @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+  *{
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
-}
+
+  }
 
 
 body{
@@ -17,7 +20,8 @@ ul{
     display: flex;
 }
 a{
-    color: black;
+    color: rgb(255, 0, 128);
+    font-size: 0.8em;
     text-decoration: none;
     margin-right: 8px;
     font-size: 2em;
@@ -26,23 +30,29 @@ main{
     padding: 20px;
     max-width: 1200px;
     margin: 100px auto;
-    background-color: white;
+    background-color: rgb(248, 245, 247);
 }
 h1{
     font-family: 'Dancing Script', cursive;
     text-align: center;
     font-size: 3em;
-    background-color: rgb(230, 111, 131);
+    background-color: rgba(241, 164, 222, 0.952);
     margin-bottom: 30px;
 }
+.imgla img { 
+    width: 6%;
+
+}
+
 img{
-    width: 100%;
+    width: 90%;
 }
 .imgla{
     display: flex;
     flex-wrap: wrap;
-    align-items: end;
-    padding: 100px;
-    background-color: aquamarine;
-    height: 30vh;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px;
+    background-color: rgb(245, 240, 242);
+    height: 15vh;
 }
