@@ -11,7 +11,7 @@
 
 
 body{
-    background-color: pink;
+    background-color: rgb(221, 3, 3);
 }
 
 
@@ -19,7 +19,7 @@ ul{
     list-style-type: none;
     display: flex;
 }
-a{
+ nav a{
     color: rgb(255, 0, 128);
     font-size: 0.8em;
     text-decoration: none;
@@ -36,7 +36,7 @@ h1{
     font-family: 'Dancing Script', cursive;
     text-align: center;
     font-size: 3em;
-    background-color: rgba(241, 164, 222, 0.952);
+    background-color: rgba(245, 123, 214, 0.952);
     margin-bottom: 30px;
 }
 .imgla img { 
@@ -45,7 +45,8 @@ h1{
 }
 
 img{
-    width: 90%;
+    width: 40vh;
+    
 }
 .imgla{
     display: flex;
@@ -55,4 +56,11 @@ img{
     padding: 25px;
     background-color: rgb(245, 240, 242);
     height: 15vh;
+}
+
+p {
+    font-size: 20px;
+}
+.principal{
+    background-color: pink;
 }
