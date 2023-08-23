@@ -63,20 +63,31 @@ p {
 }
 .principal {
     max-width: 80vw;
+    border-radius: 20px;
 }
-.produtos{
+
+.produtos {
     display: flex;
+    flex-wrap: wrap;
     gap: 10px;
     align-items: center;
     justify-content: space-evenly;
 }
-.item{
-    min-width: 32%;
+
+.item {
+    width: 32%;
+    height: 60vh;
     padding: 20px;
     text-align: center;
     border: 1px solid black;
     border-radius: 20px;
 }
-.item img{
+
+.item img {
     max-width: 80%;
+}
+@media screen and (max-width: 600px)  {
+    .item{
+        width: 100%;
+    }
 }
